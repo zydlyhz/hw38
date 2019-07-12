@@ -1,0 +1,99 @@
+﻿"TC-01.01 (2 is prime number),","2,",TRUE
+"TC-01.02 (3 is prime number),","3,",TRUE
+"TC-01.03 (4 is not prime number),","4,",FALSE
+"TC-01.04 (5 is prime number),","5,",TRUE
+"TC-01.05 (6 is not prime number),","6,",FALSE
+"TC-01.06 (7 is prime number),","7,",TRUE
+"TC-01.07 (8 is not prime number),","8,",FALSE
+"TC-01.08 (9 is not prime number),","9,",FALSE
+"TC-01.09 (10 is not prime number),","10,",FALSE
+"TC-01.10 (11 is prime number),","11,",TRUE
+"TC-01.11 (12 is not prime number),","12,",FALSE
+"TC-01.12 (13 is prime number),","13,",TRUE
+"TC-01.13 (14 is not prime number),","14,",FALSE
+"TC-01.14 (15 is not prime number),","15,",FALSE
+"TC-01.15 (16 is not prime number),","16,",FALSE
+"TC-01.16 (17 is prime number),","17,",TRUE
+"TC-01.17 (18 is not prime number),","18,",FALSE
+"TC-01.18 (19 is prime number),","19,",TRUE
+"TC-01.19 (20 is not prime number),","20,",FALSE
+"TC-01.20 (21 is not prime number),","21,",FALSE
+"TC-01.21 (22 is not prime number),","22,",FALSE
+"TC-01.22 (23 is prime number),","23,",TRUE
+"TC-01.23 (24 is not prime number),","24,",FALSE
+"TC-01.24 (25 is not prime number),","25,",FALSE
+"TC-01.25 (26 is not prime number),","26,",FALSE
+"TC-01.26 (27 is not prime number),","27,",FALSE
+"TC-01.27 (28 is not prime number),","28,",FALSE
+"TC-01.28 (29 is prime number),","29,",TRUE
+"TC-01.29 (30 is not prime number),","30,",FALSE
+"TC-01.30 (31 is prime number),","31,",TRUE
+"TC-01.31 (32 is not prime number),","32,",FALSE
+"TC-01.32 (33 is not prime number),","33,",FALSE
+"TC-01.33 (34 is not prime number),","34,",FALSE
+"TC-01.34 (35 is not prime number),","35,",FALSE
+"TC-01.35 (36 is not prime number),","36,",FALSE
+"TC-01.36 (37 is prime number),","37,",TRUE
+"TC-01.37 (38 is not prime number),","38,",FALSE
+"TC-01.38 (39 is not prime number),","39,",FALSE
+"TC-01.39 (40 is not prime number),","40,",FALSE
+"TC-01.40 (41 is prime number),","41,",TRUE
+"TC-01.41 (42 is not prime number),","42,",FALSE
+"TC-01.42 (43 is prime number),","43,",TRUE
+"TC-01.43 (44 is not prime number),","44,",FALSE
+"TC-01.44 (45 is not prime number),","45,",FALSE
+"TC-01.45 (46 is not prime number),","46,",FALSE
+"TC-01.46 (47 is prime number),","47,",TRUE
+"TC-01.47 (48 is not prime number),","48,",FALSE
+"TC-01.48 (49 is not prime number),","49,",FALSE
+"TC-01.49 (50 is not prime number),","50,",FALSE
+"TC-01.50 (51 is not prime number),","51,",FALSE
+"TC-01.51 (52 is not prime number),","52,",FALSE
+"TC-01.52 (53 is prime number),","53,",TRUE
+"TC-01.53 (54 is not prime number),","54,",FALSE
+"TC-01.54 (55 is not prime number),","55,",FALSE
+"TC-01.55 (56 is not prime number),","56,",FALSE
+"TC-01.56 (57 is not prime number),","57,",FALSE
+"TC-01.57 (58 is not prime number),","58,",FALSE
+"TC-01.58 (59 is prime number),","59,",TRUE
+"TC-01.59 (60 is not prime number),","60,",FALSE
+"TC-01.60 (61 is prime number),","61,",TRUE
+"TC-01.61 (62 is not prime number),","62,",FALSE
+"TC-01.62 (63 is not prime number),","63,",FALSE
+"TC-01.63 (64 is not prime number),","64,",FALSE
+"TC-01.64 (65 is not prime number),","65,",FALSE
+"TC-01.65 (66 is not prime number),","66,",FALSE
+"TC-01.66 (67 is prime number),","67,",TRUE
+"TC-01.67 (68 is not prime number),","68,",FALSE
+"TC-01.68 (69 is not prime number),","69,",FALSE
+"TC-01.69 (70 is not prime number),","70,",FALSE
+"TC-01.70 (71 is prime number),","71,",TRUE
+"TC-01.71 (72 is not prime number),","72,",FALSE
+"TC-01.72 (73 is prime number),","73,",TRUE
+"TC-01.73 (74 is not prime number),","74,",FALSE
+"TC-01.74 (75 is not prime number),","75,",FALSE
+"TC-01.75 (76 is not prime number),","76,",FALSE
+"TC-01.76 (77 is not prime number),","77,",FALSE
+"TC-01.77 (78 is not prime number),","78,",FALSE
+"TC-01.78 (79 is prime number),","79,",TRUE
+"TC-01.79 (80 is not prime number),","80,",FALSE
+"TC-01.80 (81 is not prime number),","81,",FALSE
+"TC-01.81 (82 is not prime number),","82,",FALSE
+"TC-01.82 (83 is prime number),","83,",TRUE
+"TC-01.83 (84 is not prime number),","84,",FALSE
+"TC-01.84 (85 is not prime number),","85,",FALSE
+"TC-01.85 (86 is not prime number),","86,",FALSE
+"TC-01.86 (87 is not prime number),","87,",FALSE
+"TC-01.87 (88 is not prime number),","88,",FALSE
+"TC-01.88 (89 is prime number),","89,",TRUE
+"TC-01.89 (90 is not prime number),","90,",FALSE
+"TC-01.90 (91 is not prime number),","91,",FALSE
+"TC-01.91 (92 is not prime number),","92,",FALSE
+"TC-01.92 (93 is not prime number),","93,",FALSE
+"TC-01.93 (94 is not prime number),","94,",FALSE
+"TC-01.94 (95 is not prime number),","95,",FALSE
+"TC-01.95 (96 is not prime number),","96,",FALSE
+"TC-01.96 (97 is prime number),","97,",TRUE
+"TC-01.97 (98 is not prime number),","98,",FALSE
+"TC-01.98 (99 is not prime number),","99,",FALSE
+"TC-01.99 (100 is not prime number),","100,",FALSE

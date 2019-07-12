@@ -1,0 +1,10 @@
+TC-01.01 (2 is prime number),2,true 
+TC-01.02 (3 is prime number),3,true 
+TC-01.03 (4 is not prime number),4,false 
+TC-01.04 (5 is prime number),5,true 
+TC-01.05 (6 is not prime number),6,false 
+TC-01.06 (7 is prime number),7,true 
+TC-01.07 (8 is not prime number),8,false 
+TC-01.08 (9 is not prime number),9,false 
+TC-01.09 (10 is not prime number),10,false 
+TC-01.10 (11 is prime number),11,true 
