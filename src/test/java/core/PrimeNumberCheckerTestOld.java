@@ -12,7 +12,7 @@ public class PrimeNumberCheckerTestOld {
 	
 	String csvFile = System.getProperty("testcases");
 	
-	@DataProvider(name = "prime_10")
+	@DataProvider(name = "Prime Numbers")
 	public Iterator<String[]> data() throws IOException {
 		String csvLine = "";
 		String[] a = null;
